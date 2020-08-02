@@ -2,7 +2,7 @@
 # is
 s=input("Enter the string:")
 sub_str=input("Enter sub string:")
-#print(s.count(sub_str))
+# print(s.count(sub_str))
 if s.count(sub_str)>0:
   print("yes")
 else:
